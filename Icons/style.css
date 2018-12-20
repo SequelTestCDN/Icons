@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?a1vp8z');
+  src:  url('fonts/icomoon.eot?a1vp8z#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?a1vp8z') format('truetype'),
+    url('fonts/icomoon.woff?a1vp8z') format('woff'),
+    url('fonts/icomoon.svg?a1vp8z#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="sequel-icon-"], [class*=" sequel-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sequel-icon-home3:before {
+  content: "\e602";
+}
+.sequel-icon-clock:before {
+  content: "\e616";
+}
+.sequel-icon-user:before {
+  content: "\e62c";
+}
+.sequel-icon-star:before {
+  content: "\e645";
+}
+.sequel-icon-star2:before {
+  content: "\e646";
+}
+.sequel-icon-warning:before {
+  content: "\e647";
+}
+.sequel-icon-notification:before {
+  content: "\e648";
+}
+.sequel-icon-eye2:before {
+  content: "\e6e7";
+}
+.sequel-icon-eye-blocked:before {
+  content: "\e6e8";
+}
+.sequel-icon-ClaimNew2:before {
+  content: "\e7e5";
+}
+.sequel-icon-DiaryRandom32:before {
+  content: "\e7ec";
+}
+.sequel-icon-Document2:before {
+  content: "\e7ee";
+}
+.sequel-icon-FinancialMessage2:before {
+  content: "\e7f2";
+}
+.sequel-icon-Movementalt:before {
+  content: "\e7f5";
+}
+.sequel-icon-cog:before {
+  content: "\e023";
+}
+.sequel-icon-box:before {
+  content: "\e079";
+}
+.sequel-icon-reload:before {
+  content: "\e080";
+}
+.sequel-icon-marquee-plus:before {
+  content: "\e083";
+}
+.sequel-icon-arrow-right:before {
+  content: "\e095";
+}
+.sequel-icon-arrow-up:before {
+  content: "\e096";
+}
+.sequel-icon-arrow-down:before {
+  content: "\e097";
+}
+.sequel-icon-plus:before {
+  content: "\e114";
+}
+.sequel-icon-cross:before {
+  content: "\e117";
+}
+.sequel-icon-open:before {
+  content: "\e128";
+}
