@@ -60,6 +60,9 @@
 .sequel-icon-Document2:before {
   content: "\e7ee";
 }
+.sequel-icon-Email:before {
+	content: "\e7ef";
+}
 .sequel-icon-FinancialMessage2:before {
   content: "\e7f2";
 }
