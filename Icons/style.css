@@ -61,7 +61,10 @@
   content: "\e7ee";
 }
 .sequel-icon-Email:before {
-	content: "\e7ef";
+  content: "\e7ef";
+}
+.sequel-icon-Email2:before {
+  content: "\e7ef";
 }
 .sequel-icon-FinancialMessage2:before {
   content: "\e7f2";
