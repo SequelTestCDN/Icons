@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?a1vp8z');
-  src:  url('fonts/icomoon.eot?a1vp8z#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?a1vp8z') format('truetype'),
-    url('fonts/icomoon.woff?a1vp8z') format('woff'),
-    url('fonts/icomoon.svg?a1vp8z#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?fqqaw4');
+  src:  url('fonts/icomoon.eot?fqqaw4#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?fqqaw4') format('truetype'),
+    url('fonts/icomoon.woff?fqqaw4') format('woff'),
+    url('fonts/icomoon.svg?fqqaw4#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.sequel-icon-sort-ascendent:before {
+  content: "\e900";
+}
+.sequel-icon-sort-descendent:before {
+  content: "\e901";
+}
+.sequel-icon-Email:before {
+  content: "\e902";
+}
 .sequel-icon-home3:before {
   content: "\e602";
 }
@@ -59,12 +68,6 @@
 }
 .sequel-icon-Document2:before {
   content: "\e7ee";
-}
-.sequel-icon-Email:before {
-  content: "\e7ef";
-}
-.sequel-icon-Email2:before {
-  content: "\e7ef";
 }
 .sequel-icon-FinancialMessage2:before {
   content: "\e7f2";
